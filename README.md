@@ -14,4 +14,3 @@ Skills: UiPath / Python / PowerBi / JS / HTML / CSS
 
 ![Banner](banner.png)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/franbucho&show_icons=true)
