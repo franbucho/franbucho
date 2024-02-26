@@ -20,7 +20,3 @@ Skills: UiPath / Python / PowerBi / JS / HTML / CSS
 # Hey there :wave:
 
 <img src=![Banner](banner3.png) >
-
-<p align="center"> 
-  Visitor count<br>
-</p>
