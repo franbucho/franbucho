@@ -16,5 +16,3 @@ Skills: UiPath / Python / PowerBi / JS / HTML / CSS
 - [LinkedIn](https://www.linkedin.com/in/fjvs-arg/)
 
 ![Banner](banner3.png)
-
-<img src=![Banner](banner3.png) >
