@@ -12,5 +12,5 @@ Skills: UiPath / Python / PowerBi / JS / HTML / CSS
 - 😄 Pronouns: DOG&PIZZA 
 - ⚡ Fun fact: Pizza Profesional eater.. I have a doctorate in the movie Toy Story, founding member of Toy Story Latam Club 
 
-![Banner](banner.png)
+![Banner](banner3.png)
 
