@@ -17,6 +17,4 @@ Skills: UiPath / Python / PowerBi / JS / HTML / CSS
 
 ![Banner](banner3.png)
 
-# Hey there :wave:
-
 <img src=![Banner](banner3.png) >
