@@ -4,8 +4,6 @@ I am of Venezuelan origin but I live in New York City, I am very interested in t
 
 Skills: UiPath / Python / PowerBi / JS / HTML / CSS 
 
-<img src=![Banner](banner3.png)>
-
 - 🔭 I’m currently working on PWC 
 - 🌱 I’m currently learning IA Integration & Large Scale Project 
 - 👯 I’m looking to collaborate on RPA AND CODE CHALLENGES 
