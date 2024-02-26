@@ -16,7 +16,7 @@ Skills: UiPath / Python / PowerBi / JS / HTML / CSS
 
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src=![Banner](banner3.png) alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
