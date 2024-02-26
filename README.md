@@ -4,7 +4,7 @@ I am of Venezuelan origin but I live in New York City, I am very interested in t
 
 Skills: UiPath / Python / PowerBi / JS / HTML / CSS 
 
-<img src=![Banner](banner3.png) alt="Hello world">
+<img src=![Banner](banner3.png)>
 
 - 🔭 I’m currently working on PWC 
 - 🌱 I’m currently learning IA Integration & Large Scale Project 
@@ -21,7 +21,7 @@ Skills: UiPath / Python / PowerBi / JS / HTML / CSS
 
 # Hey there :wave:
 
-<img src=![Banner](banner3.png) alt="Hello world">
+<img src=![Banner](banner3.png) >
 
 <p align="center"> 
   Visitor count<br>
