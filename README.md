@@ -14,3 +14,18 @@ Skills: UiPath / Python / PowerBi / JS / HTML / CSS
 
 ![Banner](banner3.png)
 
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+## Get in touch :coffee:
+
+- [Personal Blog](https://techvilla.nicepage.io/?uid=83c16148-a0cf-4858-aeca-1f14ed5e44ad)
+- [Twitter](https://twitter.com/franbucho)
+- [LinkedIn](https://www.linkedin.com/in/fjvs-arg/)
+
