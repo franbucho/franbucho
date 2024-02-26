@@ -24,10 +24,3 @@ Skills: UiPath / Python / PowerBi / JS / HTML / CSS
 <p align="center"> 
   Visitor count<br>
 </p>
-
-## Get in touch :coffee:
-
-- [Personal Blog](https://techvilla.nicepage.io/?uid=83c16148-a0cf-4858-aeca-1f14ed5e44ad)
-- [Twitter](https://twitter.com/franbucho)
-- [LinkedIn](https://www.linkedin.com/in/fjvs-arg/)
-
