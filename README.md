@@ -1,19 +1,29 @@
-### Hi there 👋, My name is Fran
-#### I am Developer specialized in automation, data management and visual integrations
-I am of Venezuelan origin but I live in New York City, I am very interested in technology, dogs and 3D printing.
+### Hi there 👋, I'm Fran!
+#### Developer | Automation Specialist | Data Manager | Visual Integrations Enthusiast
 
-Skills: UiPath / Python / PowerBi / JS / HTML / CSS 
+I hail from Venezuela, but these days, you'll find me immersed in the tech hub of New York City. When I'm not coding, I'm likely exploring the latest in technology, spending time with my furry friends, or diving into the world of 3D printing.
 
-- 🔭 I’m currently working on PWC 
-- 🌱 I’m currently learning IA Integration & Large Scale Project 
-- 👯 I’m looking to collaborate on RPA AND CODE CHALLENGES 
-- 🤔 I’m looking for help with Apache, Nginx Migration 
-- 📫 How to reach me: franciscovillahermosa@gmail.com 
-- 😄 Pronouns: DOG&PIZZA 
-- ⚡ Fun fact: Pizza Profesional eater.. I have a doctorate in the movie Toy Story, founding member of Toy Story Latam Club
+**Skills:** UiPath | Python | PowerBi | JavaScript | HTML | CSS
+
+- 🔭 Currently working at PWC
+- 🌱 Learning the ins and outs of AI Integration & Large Scale Projects
+- 👯 Open to collaborating on RPA projects and Code Challenges
+- 🤔 Seeking insights on Apache and Nginx Migration
+- 📫 Let's connect: [Email me](mailto:franciscovillahermosa@gmail.com)
+- 😄 Pronouns: Dog & Pizza Lover 🐶🍕
+- ⚡ Fun fact: Professional pizza eater! I hold a "doctorate" in Toy Story trivia and am a founding member of the Toy Story Latam Club.
+
+#### Reach out to me:
 - [Personal Blog](https://techvilla.nicepage.io/?uid=83c16148-a0cf-4858-aeca-1f14ed5e44ad)
 - [Twitter](https://twitter.com/franbucho)
 - [LinkedIn](https://www.linkedin.com/in/fjvs-arg/)
 
 ![Banner](banner3.png)
 
+#### Additional Functionality:
+- 📊 Check out my latest [PowerBi Dashboard](link-to-dashboard)
+- 🎨 See my latest UI/UX design projects [here](link-to-portfolio)
+- 🤖 Exploring the depths of Machine Learning in my spare time
+- 🌐 Stay tuned for upcoming articles on tech and automation trends
+
+Feel free to drop me a message or connect on LinkedIn! Let's code, automate, and innovate together. 🚀
