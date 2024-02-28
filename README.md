@@ -14,7 +14,7 @@ I hail from Venezuela, but these days, you'll find me immersed in the tech hub o
 - ⚡ Fun fact: Professional pizza eater! I hold a "doctorate" in Toy Story trivia and am a founding member of the Toy Story Latam Club.
 
 #### Reach out to me:
-- [Personal Blog](https://techvilla.nicepage.io/?uid=83c16148-a0cf-4858-aeca-1f14ed5e44ad)
+- [Personal Page](https://techvilla.nicepage.io/?uid=83c16148-a0cf-4858-aeca-1f14ed5e44ad)
 - [Twitter](https://twitter.com/franbucho)
 - [LinkedIn](https://www.linkedin.com/in/fjvs-arg/)
 
