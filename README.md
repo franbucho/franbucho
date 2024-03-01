@@ -18,7 +18,7 @@ I hail from Venezuela, but these days, you'll find me immersed in the tech hub o
 - [Twitter](https://twitter.com/franbucho)
 - [LinkedIn](https://www.linkedin.com/in/fjvs-arg/)
 
-![Banner](banner3.png)
+![Banner](Banner.png)
 
 #### Additional Functionality:
 - 📊 Check out my latest [PowerBi Dashboard](link-to-dashboard)
