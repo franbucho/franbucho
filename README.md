@@ -20,8 +20,6 @@ I hail from Venezuela, but these days, you'll find me immersed in the tech hub o
 - [Twitter](https://twitter.com/franbucho)
 - [LinkedIn](https://www.linkedin.com/in/fjvs-arg/)
 
-![Banner](Banner.png)
-
 #### Additional Functionality:
 - 📊 Check out my latest [PowerBi Dashboard](link-to-dashboard)
 - 🎨 See my latest UI/UX design projects [here](link-to-portfolio)
