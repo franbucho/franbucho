@@ -1,3 +1,5 @@
+![Banner](Banner.png)
+
 ### Hi there 👋, I'm Fran!
 #### Developer | Automation Specialist | Data Manager | Visual Integrations Enthusiast
 
