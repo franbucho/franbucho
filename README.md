@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Fran!
 #### Developer | Automation Specialist | Data Manager | Visual Integrations Enthusiast
 
-I hail from Venezuela, but these days, you'll find me immersed in the tech hub of New York City. When I'm not coding, I'm likely exploring the latest in technology, spending time with my furry friends, or diving into the world of 3D printing.
+I am originally from Venezuela, but I am currently in New York City. During my free coding hours, you will often find me Testing different technological advances, or Designing 3D printing models.
 
 **Skills:** UiPath | Python | PowerBi | JavaScript | HTML | CSS
 
