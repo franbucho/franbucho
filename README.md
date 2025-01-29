@@ -7,7 +7,7 @@ I am originally from Venezuela, but I am currently in New York City. During my f
 
 **Skills:** UiPath | Python | PowerBi | JavaScript | HTML | CSS
 
-- 🔭 Currently working at PWC
+- 🔭 Currently working as a Freelancer
 - 🌱 Learning the ins and outs of AI Integration & Large Scale Projects
 - 👯 Open to collaborating on RPA projects and Code Challenges
 - 🤔 Seeking insights on Apache and Nginx Migration
