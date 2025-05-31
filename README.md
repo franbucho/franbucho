@@ -21,7 +21,7 @@ I am originally from Venezuela, but I am currently in New York City. During my f
 - [LinkedIn](https://www.linkedin.com/in/fjvs-arg/)
 
 #### Additional Functionality:
-- 📊 Check out my latest [PowerBi Dashboard](link-to-dashboard)
+- 📊 Check out my latest [Dashboard](link-to-dashboard)
 - 🎨 See my latest UI/UX design projects [here](link-to-portfolio)
 - 🤖 Exploring the depths of Machine Learning in my spare time
 - 🌐 Stay tuned for upcoming articles on tech and automation trends
