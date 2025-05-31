@@ -5,7 +5,7 @@
 
 I am originally from Venezuela, but I am currently in New York City. During my free coding hours, you will often find me Testing different technological advances, or Designing 3D printing models.
 
-**Skills:** UiPath | Python | PowerBi | JavaScript | HTML | CSS
+**Skills:** Automation | Python | AI | JavaScript | HTML | CSS
 
 - 🔭 Currently working as a Freelancer
 - 🌱 Learning the ins and outs of AI Integration & Large Scale Projects
