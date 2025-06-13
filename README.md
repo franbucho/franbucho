@@ -23,26 +23,15 @@ Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 36
 
 ---
 
-### 👯 Let's Build Together
-- Collaborations on **AI-driven apps**  
-- Open source tools for **data automation**  
-- Demos or POCs in **Web3 and RPA**  
-- Proyectos en español para **LatAm comunidades tecnológicas**
+### 🎮 Mini ASCII Game: "Catch the Bot"
 
----
+```text
+🤖            💻
+ |             |
+[ ] Move Left  [ ] Move Right
 
-### 📬 Reach Out:
-- 📧 [Email me](mailto:franciscovillahermosa@gmail.com)
-- 🌐 [Portfolio](https://techvilla.nicepage.io/)
-- 🐦 [X](https://x.com/franbucho)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fjvilla/)
-- 🐙 [GitHub](https://github.com/franbucho)
-
----
-
-😄 **Fun Fact:**  
-Dog and Pizza Lover 🐶🍕 | “Doctor” in Toy Story | Founding Tech Villa | Hackathon Addict 
-Let’s build something cool 🍕💻
-
-
-
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+⬛   Fran's Bot escaped! Help it reach the server safely!   ⬛
+⬛    Use your imagination to move it! (← or →)              ⬛
+⬛    Tip: Automate faster than bugs can crawl... 🐛         ⬛
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
