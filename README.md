@@ -27,7 +27,7 @@ Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 36
 
 ### 🕹️ Mini Game: Move the Bot
 
-Try it live: [Play Game](https://franbucho.github.io/nombre-del-repo/)
+Try it live: [Play Game](https://github.com/franbucho/ProfileMiniGame)
 
 ![preview](https://raw.githubusercontent.com/franbucho/nombre-del-repo/main/preview.gif) <!-- opcional si grabás una animación -->
 
