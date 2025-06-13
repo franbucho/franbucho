@@ -42,8 +42,8 @@ Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 36
 ---
 
 😄 **Fun Fact:**  
-Dog and Pizza Lover 🐶🍕 | “Doctor” in Toy Story trivia | Founding member of Tech Villa | Hackathon Addict ⚙️🔥 |
-Let’s build something cool — with automation, AI, or anchovies 🍕💻
+Dog and Pizza Lover 🐶🍕 | “Doctor” in Toy Story trivia | Founding member of Tech Villa | Hackathon Addict 
+Let’s build something cool with automation, AI, or anchovies 🍕💻
 
 
 
