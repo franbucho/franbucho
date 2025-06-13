@@ -25,13 +25,9 @@ Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 36
 
 ### 🎮 Mini ASCII Game: "Catch the Bot"
 
-```text
-🤖            💻
- |             |
-[ ] Move Left  [ ] Move Right
+### 🕹️ Mini Game: Move the Bot
 
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⬛   Fran's Bot escaped! Help it reach the server safely!   ⬛
-⬛    Use your imagination to move it! (← or →)              ⬛
-⬛    Tip: Automate faster than bugs can crawl... 🐛         ⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+Try it live: [Play Game](https://franbucho.github.io/nombre-del-repo/)
+
+![preview](https://raw.githubusercontent.com/franbucho/nombre-del-repo/main/preview.gif) <!-- opcional si grabás una animación -->
+
