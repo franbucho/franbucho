@@ -1,7 +1,7 @@
 ![Banner](Banner.png)
 
 ### Hi there 👋, I'm Fran!
-#### Developer | Automation Specialist | Data Manager | AI | Web3 Explorer | Builder
+#### Developer | Automation Specialist | AI | Web3 Explorer | Builder
 
 I’m originally from Venezuela 🇻🇪, now living and building from New York City 🗽.  
 In my free time, I explore new tech trends, prototype tools, and design 3D models to bring ideas to life.
@@ -19,8 +19,7 @@ Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 36
 - 🧠 Voice-enabled apps with AI (commands, TTS, OCR, facial recognition)
 - 🤖 Automation bots for business tasks (RPA + Python hybrids)
 - 📱 Prototyping mobile-first apps with fast deployment
-- 🔐 Exploring Web3 integrations & Ethereum smart contracts
-- 🌐 Scraping + curating medical data across Latin America
+- 🌐 Scraping + Curating Medical data across Latin America
 
 ---
 
