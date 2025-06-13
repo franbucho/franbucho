@@ -35,7 +35,7 @@ Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 36
 ### 📬 Reach Out:
 - 📧 [Email me](mailto:franciscovillahermosa@gmail.com)
 - 🌐 [Portfolio](https://techvilla.nicepage.io/)
-- 🐦 [Twitter](https://x.com/franbucho)
+- 🐦 [X](https://x.com/franbucho)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fjvilla/)
 - 🐙 [GitHub](https://github.com/franbucho)
 
