@@ -25,9 +25,11 @@ Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 36
 
 ### 🎮 Mini ASCII Game: "Catch the Bot"
 
-### 🕹️ Mini Game: Move the Bot
+## 🐍 Play Classic Snake
 
-Try it live: [Play Game](https://franbucho.github.io/ProfileMiniGame/)
+Guide the snake to eat red blocks, grow longer, avoid hitting walls or itself!
 
-![preview](https://raw.githubusercontent.com/franbucho/nombre-del-repo/main/preview.gif) <!-- opcional si grabás una animación -->
+[Play it now](https://franbucho.github.io/ProfileMiniGame/)
+
+Score resets on collision—simple, fun, and retro!
 
