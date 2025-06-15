@@ -27,9 +27,9 @@ Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 36
 
 ## 🐍 Play Classic Snake
 
-Guide the snake to eat red blocks, grow longer, avoid hitting walls or itself!
+If you have 2 minutes, please try to challenge me in this retro mini game!
 
 [Play it now](https://franbucho.github.io/ProfileMiniGame/)
 
-Score resets on collision—simple, fun, and retro!
+Share your score with me and this will be personal.
 
