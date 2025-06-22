@@ -7,9 +7,13 @@ I’m originally from Venezuela 🇻🇪, now living and building from New York 
 In my free time, I explore new tech trends, prototype tools, and design 3D models to bring ideas to life.
 ---
 **🛠️ Tech Stack & Interests:**  
-Automation (UiPath, Python, Selenium) • AI Integration (OpenAI, Whisper, TTS) •  
-Full-Stack Web (JavaScript, HTML/CSS, Flask) • Mobile Prototypes • Web3 (smart contracts, DApps) •  
-Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 360, Cura)
+Automation (UiPath, Python, Selenium) 
+- AI Integration (OpenAI, Whisper, TTS) 
+- Full-Stack Web (JavaScript, HTML/CSS, Flask) 
+- Mobile Prototypes 
+- Data Visualization 
+- DevOps Basics 
+- 3D Printing (Fusion 360, Cura)
 ---
 ### 🚀 What I'm Working On
 - 🧠 Voice-enabled apps with AI (commands, TTS, OCR, facial recognition)
