@@ -8,9 +8,9 @@ I’m a **Developer, Automation Specialist, and Builder** originally from Venezu
 
 ### 🤝 Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[<img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://YOUR_PORTFOLIO_LINK/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/YOUR_TWITTER/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fjvilla/)
+[<img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://techvilla.nicepage.io/)
+[<img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Franbucho)
 
 ---
 
@@ -38,4 +38,4 @@ I’m a **Developer, Automation Specialist, and Builder** originally from Venezu
 
 Think you can beat my high score? It's personal.
 
-[**Play Retro Snake Now**](snakeretro.com)
+[**Play Retro Snake Now**](https://snakeretro.com)
