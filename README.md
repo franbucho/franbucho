@@ -19,9 +19,9 @@ Data Visualization (Power BI, Dash) • DevOps Basics • 3D Printing (Fusion 36
 ---
 ## 🐍 Play Classic Snake
 
-If you have 2 minutes, please try to challenge me in this retro mini game!
+If you have 2 minutes, please try to challenge me at Retro Snake.
 
 [Play it now](https://franbucho.github.io/ProfileMiniGame/)
 
-Share your score with me and this will be personal.
+If you decide to do so it will be personal
 
