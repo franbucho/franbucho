@@ -1,7 +1,7 @@
 ![Banner](Banner.png)
 
 ### Hi there 👋, I'm Fran!
-#### Developer | Automation Specialist | AI | Web3 Explorer | Builder
+#### Developer | Automation Specialist | Builder
 
 I’m originally from Venezuela 🇻🇪, now living and building from New York City 🗽.  
 In my free time, I explore new tech trends, prototype tools, and design 3D models to bring ideas to life.
