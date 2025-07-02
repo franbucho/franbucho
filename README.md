@@ -8,8 +8,8 @@ I’m a **Developer, Automation Specialist, and Builder** originally from Venezu
 
 ### 🤝 Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fjvilla/)
-[<img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://techvilla.nicepage.io/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/franbucho/)
+[<img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://www.franciscovillahermosa.com)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Franbucho)
 
 ---
