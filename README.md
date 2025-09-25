@@ -8,7 +8,7 @@ I’m a **Developer, Automation Specialist, and Builder** originally from Venezu
 
 ### 🛡️ My TryHackMe Progress
 
-[![My TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/Franbucho.png)](https://tryhackme.com/p/Franbucho)
+[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/franbucho.png)](https://tryhackme.com/p/Franbucho)
 
 ---
 
