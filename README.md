@@ -68,24 +68,26 @@ I also spend time exploring cybersecurity, Linux, networking, and offensive-secu
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=franbucho&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franbucho&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franbucho&theme=github-dark-blue&hide_border=true" alt="Fran's GitHub Streak" />
 </p>
 
 ---
 
 ## 🎮 Care for a Game of Snake?
 
-I build serious things.
-
-Sometimes.
+I build serious things. **Sometimes.** 😄
 
 Think you can beat my high score?
 
-### 🐍 [Play Retro Snake](https://snakeretro.com)
+<p align="center">
+  <a href="https://snakeretro.com">
+    <img src="https://img.shields.io/badge/🐍_PLAY_RETRO_SNAKE-Play_Now-2ea44f?style=for-the-badge" alt="Play Retro Snake" />
+  </a>
+</p>
+
 
 ---
 
