@@ -12,26 +12,19 @@ My background is heavily focused on business automation, but I'm constantly expe
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```text
-fran@franbucho
-──────────────────────────────────────
+📍 **Based in New York City** · 🇻🇪 **Venezuelan**
 
-Location        New York City, USA
-Focus           Automation · AI · Development
+I build **automation and AI-powered solutions** that turn repetitive workflows into scalable tools.
 
-Languages       Python · JavaScript · TypeScript · SQL
-Automation      UiPath · Power Automate · Selenium
-Web             React · HTML · CSS · Flask
-AI              OpenAI · Gemini · LLMs · Whisper
-Cloud           Firebase · Cloud Run
-Tools           Git · Linux · APIs · OCR
+* ⚙️ **Automation** — RPA, business processes & intelligent workflows
+* 🐍 **Development** — Python, APIs & rapid prototyping
+* 🧠 **AI** — LLMs, computer vision & AI-powered applications
+* 🖥️ **Currently exploring** — Local AI, multi-GPU systems & cybersecurity
+* 🚀 **Always building** — From experiments to real-world products
 
-Currently       Building AI + Automation projects
-Exploring       Local LLMs · Multi-GPU AI · Cybersecurity
-Also into       3D Printing · Aviation · Photography
-```
+When I'm away from the keyboard, you'll probably find me exploring **aviation, photography, 3D printing, or new tech**.
 
 ---
 
@@ -75,23 +68,11 @@ I also spend time exploring cybersecurity, Linux, networking, and offensive-secu
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=franbucho&show_icons=true&theme=transparent&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franbucho&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/franbucho/)
-[<img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://www.franciscovillahermosa.com)
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Franbucho)
-
 </p>
 
 ---
@@ -108,7 +89,19 @@ Think you can beat my high score?
 
 ---
 
-### 🤖 One more thing...
+## 🤝 Connect with Me
+
+<p align="center">
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/franbucho/)
+[<img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://www.franciscovillahermosa.com)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Franbucho)
+
+</p>
+
+---
+
+### 🤖 One More Thing...
 
 If you're a **human**, feel free to connect.
 
