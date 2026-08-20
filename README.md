@@ -68,14 +68,6 @@ I also spend time exploring cybersecurity, Linux, networking, and offensive-secu
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franbucho&theme=github-dark-blue&hide_border=true" alt="Fran's GitHub Streak" />
-</p>
-
----
-
 ## 🎮 Care for a Game of Snake?
 
 I build serious things. **Sometimes.** 😄
