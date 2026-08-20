@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](BANNER.png)
 
 # Hi 👋, I'm Fran
 
