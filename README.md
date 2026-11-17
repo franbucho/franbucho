@@ -14,7 +14,7 @@
 * **Nightly Report Pipeline** (private): a hotel operation filed and summarized a dozen nightly email reports by hand → an agent collects, files and summarizes them automatically.
 * **Delivery-Platform Reconciliation Bots** (private): a restaurant group reconciled delivery-platform payouts by hand every week → a one-click run with an audit trail.
 * **Threat Analyzer Bot** (private): staff opened suspicious attachments on their phones before anyone could check them → forward the file and get a clear "safe to open / don't open" answer.
-* **Niria: AI Eye-Health Pre-screening** (private): people put off eye check-ups → a web app that turns an eye photo and a questionnaire into a PDF report with nearby specialists.
+* **Niria** (private), AI eye-health pre-screening web app — product & development: people put off eye check-ups → a web app that turns an eye photo and a questionnaire into a PDF report with nearby specialists.
 * **[RPA Analyzer](https://github.com/franbucho/RPA-Analyzer-)**: scoping an automation needs a quick read on page complexity → a Python tool that counts interactive elements and speeds up estimates.
 
 More case studies → [franciscovillahermosa.com/Projects.html](https://franciscovillahermosa.com/Projects.html)
