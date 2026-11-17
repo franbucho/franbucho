@@ -1,30 +1,32 @@
 ![Banner](BANNER.png)
 
-# Hi 👋, I'm Fran
+# Hi, I'm Fran: RPA & AI Automation Developer
 
-**Automation Developer · RPA Specialist · Python Builder · AI Explorer**
+**UiPath · Power Platform · Python · AI agents (Claude + MCP)** · New York · Open to freelance projects
 
-I'm a developer and automation specialist from Venezuela 🇻🇪, currently based in **New York City 🗽**.
-
-I build tools that turn repetitive, complex workflows into simple and scalable solutions — combining **RPA, Python, APIs, AI, and web technologies**.
-
-My background is heavily focused on business automation, but I'm constantly experimenting with new ideas: from AI-powered applications and local LLM infrastructure to cybersecurity labs, web apps, and hardware projects.
+6+ years building automation for enterprise teams (50+ production bots at a Big Four firm). Today I build AI agents and RPA that handle email, documents, reports and monitoring, and that keep running after launch.
 
 ---
 
-## 👨‍💻 About Me
+## Featured work
 
-📍 **Based in New York City** · 🇻🇪 **Venezuelan**
+* **24/7 AI Agent Operations Server** (private): routine inbox checks, reports and monitoring needed someone at a computer → a team of Claude-based agents now runs them 24/7 unattended and reports on Telegram.
+* **Nightly Report Pipeline** (private): a hotel operation filed and summarized a dozen nightly email reports by hand → an agent collects, files and summarizes them automatically.
+* **Delivery-Platform Reconciliation Bots** (private): a restaurant group reconciled delivery-platform payouts by hand every week → a one-click run with an audit trail.
+* **Threat Analyzer Bot** (private): staff opened suspicious attachments on their phones before anyone could check them → forward the file and get a clear "safe to open / don't open" answer.
+* **Niria: AI Eye-Health Pre-screening** (private): people put off eye check-ups → a web app that turns an eye photo and a questionnaire into a PDF report with nearby specialists.
+* **[RPA Analyzer](https://github.com/franbucho/RPA-Analyzer-)**: scoping an automation needs a quick read on page complexity → a Python tool that counts interactive elements and speeds up estimates.
 
-I build **automation and AI-powered solutions** that turn repetitive workflows into scalable tools.
+More case studies → [franciscovillahermosa.com/Projects.html](https://franciscovillahermosa.com/Projects.html)
 
-* ⚙️ **Automation** — RPA, business processes & intelligent workflows
-* 🐍 **Development** — Python, APIs & rapid prototyping
-* 🧠 **AI** — LLMs, computer vision & AI-powered applications
-* 🖥️ **Currently exploring** — Local AI, multi-GPU systems & cybersecurity
-* 🚀 **Always building** — From experiments to real-world products
+---
 
-When I'm away from the keyboard, you'll probably find me exploring **aviation, photography, 3D printing, or new tech**.
+## Hire me for
+
+* AI agents
+* RPA & workflow automation
+* Document & report automation
+* Integrations & dashboards
 
 ---
 
@@ -37,26 +39,14 @@ When I'm away from the keyboard, you'll probably find me exploring **aviation, p
 | 🔧 Selenium        | 🗣️ Whisper & TTS         | 🌐 JavaScript |
 | 🔌 API Integration | 👁️ Computer Vision & OCR | 🔥 Firebase   |
 | 📊 Power Platform  | 🤖 OpenAI & Gemini        | ☁️ Cloud Run  |
+| 🎭 Playwright      | 🧩 Claude & MCP           | 🐧 Linux      |
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
-### 👁️ AI-Powered Applications
-
-Building practical applications that combine **AI, computer vision, automation, and real-world workflows**.
-
-### 🤖 Intelligent Automation
-
-Creating hybrid automation systems that combine **RPA + Python + APIs + AI** to automate processes beyond traditional rule-based bots.
-
-### 🧠 Local AI Infrastructure
-
-Experimenting with **local LLMs, Linux, GPUs, model orchestration, and self-hosted AI infrastructure**.
-
-### ⚡ Rapid Prototyping
-
-Turning ideas into working products quickly using **React, TypeScript, Firebase, Python, and cloud services**.
+* A 24/7 multi-agent automation server (Claude Code + MCP + Telegram)
+* Hybrid RPA + AI workflows for document-heavy processes
 
 ---
 
